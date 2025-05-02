@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshpatgar125&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshpatgar125" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshpatgar125" alt="yogeshpatgar125" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/https://x.com/spatgar19755" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/spatgar19755?logo=twitter&style=for-the-badge" alt="https://x.com/spatgar19755" /></a> </p>
 
 - 🔭 I’m currently working on [Project Management System](https://github.com/RDL-Pvt-Ltd/RDL_PMS/tree/main)
